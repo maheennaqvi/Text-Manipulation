@@ -110,3 +110,5 @@ bikes_tbl %>%
         disc      = model_tier %>% str_to_lower() %>% str_detect("disc") %>% as.numeric()
     ) %>%
      View() 
+     
+    https://raw.github.com/maheen-naqvi/text-manipulation-with-R/Screen Shot 2021-08-02 at 12.38.25 PM.png
