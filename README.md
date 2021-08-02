@@ -111,4 +111,4 @@ bikes_tbl %>%
     ) %>%
      View() 
      
-    https://raw.github.com/maheen-naqvi/text-manipulation-with-R/Screen Shot 2021-08-02 at 12.38.25 PM.png
+   ![](Screen%20Shot%202021-08-02%20at%2012.38.25%20PM.png)
